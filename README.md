@@ -29,7 +29,7 @@ Login/registration functionality allows users to customize their timer durations
 | Frontend (UI)       | HTML, CSS, JavaScript    |
 | Server-side         | JSP, Servlets (Java EE)  |
 | Session Management  | `HttpSession` API        |
-| Database (optional) | MySQL/PostgreSQL + JDBC  |
+| Database            | JDBC                     |
 | App Server          | Apache Tomcat 9+         |
 
 ---
